@@ -3,7 +3,7 @@
 
 获取行情 (GET)
 
-BTC：http://api.btctrade.com/api/ticker?coin=btc
+BTC：http://api.btctrade.com/api/ticker?coin=btc <br>
 ETH：http://api.btctrade.com/api/ticker?coin=eth
 LTC：http://api.btctrade.com/api/ticker?coin=ltc
 DOGE：http://api.btctrade.com/api/ticker?coin=doge
